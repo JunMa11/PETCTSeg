@@ -37,6 +37,7 @@ nnUNet_train 3d_fullres nnUNetTrainerV2_DA5_DiceTopK10 taskid fold # fold in [0,
 ## Inference
 
 Donwload checkpoints: https://pan.baidu.com/s/1C3TaO0IVMXsBdSjAF-HMSg pw:4494 
+or https://drive.google.com/file/d/1gnSYN2Bn1sTDLXrTWOWGtJ3IUABkxhr_/view?usp=sharing
 
 
 
